@@ -47,7 +47,7 @@
 
 ### Github Stats ⏲️
 
-  <img align="left" alt="Gustavo-franca's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gustavo-franca&show_icons=true&hide_border=true" />
+  <img align="left" alt="Gustavo-franca's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gustavo-franca-meli&show_icons=true&hide_border=true" />
 
 [website]: https://www.mercadolivre.com.br/
 
