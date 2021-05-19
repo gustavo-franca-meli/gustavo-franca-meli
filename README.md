@@ -1,7 +1,7 @@
 ### Fala Galera, Eu sou o Gustavo França 👋
 
 
-## Eu Sou Desenvolvedor e Estudante
+## Eu Sou Desenvolvedor Backend e Estudante
 
 - 🔭 Trabalho no [Mercado Livre ][website]!
 - 🌱 Atualmente estou me aprofundando em microsserviços.🚀
